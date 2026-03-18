@@ -82,7 +82,7 @@ src="https://user-images.githubusercontent.com/74038190/212898774-0a96dc1d-c908-
 <br clear="both">
 
 <div align="center">
-  <a href="www.linkedin.com/in/harsh-asarsa-4341ba30a" target="_blank">
+  <a href="https://www.linkedin.com/in/harsh-asarsa-4341ba30a/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://x.com/DevilOFDarkne11" target="_blank">
