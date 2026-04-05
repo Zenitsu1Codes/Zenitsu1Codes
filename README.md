@@ -2,9 +2,6 @@
 
 <img align="right" height="231" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzZ1aHFqMWRiaWQ3azNtamVjaDJvNzZzd3A3bGlqZXR5bHZ3MTNoNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/err1iR55DQmdayJ7L0/giphy.gif"/>
 
-<img align="right" height="231" 
-src="https://user-images.githubusercontent.com/74038190/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif"/>
-
 ###
 
 <h1 align="left">Hey 👋 What's up?</h1>
