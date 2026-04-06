@@ -2,9 +2,11 @@
 
 <img align="right" height="231" src="Assets/Recording 2026-03-18 170647 (2).gif"/>
 
+###
 
-
-<h1 align="left">Hey 👋 What's up?</h1>
+<ul id="user-content-toc">
+  <summary><h1 align="left">Hey 👋 What's up?</h1></summary>
+</ul>
 
 ###
 
