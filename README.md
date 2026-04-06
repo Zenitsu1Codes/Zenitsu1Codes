@@ -6,7 +6,7 @@
 
 <h1 align="left">Hey 👋 What's up?</h1>
 
-###
+
 
 <p align="left">My name is Harsh and I'm a BCA student, developer, and aspiring entrepreneur from India 🇮🇳</p>
 
