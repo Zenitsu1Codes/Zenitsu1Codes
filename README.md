@@ -6,7 +6,7 @@
 
 <ul id="user-content-toc">
   <summary><h1 align="left">Hey 👋 What's up?</h1>
-  <hr  size="10" width="40%" size="10" ></summary>
+  <hr  size="2" width="40%" size="10" ></summary>
 </ul>
 
 ###
